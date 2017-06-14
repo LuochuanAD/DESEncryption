@@ -12,5 +12,9 @@
     NSLog(@"解密后的字符串:%@",decryptionString);
     
     
+   
     
+![image](https://github.com/LuochuanAD/DESEncryption/blob/master/DesDemo/log.png)
+
+
 博客地址:http://blog.csdn.net/luochuanad/article/details/68945526
