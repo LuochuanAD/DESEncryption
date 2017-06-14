@@ -15,6 +15,7 @@
 		809BA7681EF1903D0003DD85 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 809BA7661EF1903D0003DD85 /* LaunchScreen.storyboard */; };
 		809BA7741EF192320003DD85 /* GTMBase64.m in Sources */ = {isa = PBXBuildFile; fileRef = 809BA7721EF192320003DD85 /* GTMBase64.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
 		809BA7771EF192480003DD85 /* LCdes.m in Sources */ = {isa = PBXBuildFile; fileRef = 809BA7761EF192480003DD85 /* LCdes.m */; };
+		809BA77B1EF1970D0003DD85 /* log.png in Resources */ = {isa = PBXBuildFile; fileRef = 809BA77A1EF1970D0003DD85 /* log.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,7 @@
 		809BA7731EF192320003DD85 /* GTMDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GTMDefines.h; sourceTree = "<group>"; };
 		809BA7751EF192480003DD85 /* LCdes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LCdes.h; sourceTree = "<group>"; };
 		809BA7761EF192480003DD85 /* LCdes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LCdes.m; sourceTree = "<group>"; };
+		809BA77A1EF1970D0003DD85 /* log.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = log.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				809BA75F1EF1903D0003DD85 /* ViewController.m */,
 				809BA7611EF1903D0003DD85 /* Main.storyboard */,
 				809BA7641EF1903D0003DD85 /* Assets.xcassets */,
+				809BA77A1EF1970D0003DD85 /* log.png */,
 				809BA7661EF1903D0003DD85 /* LaunchScreen.storyboard */,
 				809BA7691EF1903D0003DD85 /* Info.plist */,
 				809BA7581EF1903D0003DD85 /* Supporting Files */,
@@ -165,6 +168,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				809BA77B1EF1970D0003DD85 /* log.png in Resources */,
 				809BA7681EF1903D0003DD85 /* LaunchScreen.storyboard in Resources */,
 				809BA7651EF1903D0003DD85 /* Assets.xcassets in Resources */,
 				809BA7631EF1903D0003DD85 /* Main.storyboard in Resources */,
@@ -341,6 +345,7 @@
 				809BA76E1EF1903D0003DD85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
